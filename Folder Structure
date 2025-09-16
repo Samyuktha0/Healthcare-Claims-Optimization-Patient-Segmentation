@@ -1,0 +1,17 @@
+Healthcare-Claims-Analytics/
+│
+├── data/
+│   └── claims_data.xlsx
+│
+├── sql/
+│   └── claims_schema.sql
+│
+├── python/
+│   ├── claims_analysis.py
+│   └── sales_forecast.py
+│
+├── dashboard/
+│   └── dashboard.xlsx
+│
+├── README.md
+└── requirements.txt
